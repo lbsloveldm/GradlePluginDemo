@@ -10,7 +10,8 @@ public class InsertTransform extends Transform {
     //设置我们自定义的Transform对应的Task名称
     @Override
     String getName() {
-        return "DavisPlugin"
+        System.out.printfln("fsdfsafsafsafend ");
+        return "DavisPlugin111fdfsafafafsafsf"
     }
 
     //指定输入的类型，通过这里设定，可以指定我们要处理的文件类型
